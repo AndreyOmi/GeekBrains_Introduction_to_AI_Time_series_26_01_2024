@@ -1,0 +1,2 @@
+# GeekBrains_Introduction_to_AI_Time_series_26_01_2024
+Прогнозирование развития временного ряда
